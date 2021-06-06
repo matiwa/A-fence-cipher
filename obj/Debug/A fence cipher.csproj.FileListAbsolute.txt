@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\A fence cipher\bin\Debug\A fence cipher.exe
+C:\Users\Windows 10\source\repos\A fence cipher\bin\Debug\A fence cipher.pdb
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A fence cipher.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A_fence_cipher.Form1.resources
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A_fence_cipher.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A fence cipher.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A fence cipher.exe
+C:\Users\Windows 10\source\repos\A fence cipher\obj\Debug\A fence cipher.pdb
